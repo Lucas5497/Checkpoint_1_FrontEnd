@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+/*família de fontes: 'Playfair Display', serif;
+família de fontes: 'Roboto Condensed', sans-serif;*/
+
+
+body{
+    background-image: url( ../img/Franco\ da\ Rocha.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin-top: 10px;
+    
+}
+
+
+@import url('https://fonts.googleapis.com/css2? family = Playfair + Display & family = Roboto + Condensado: wght @ 300 & display = swap');
+
+
+header{
+    padding: 20px;
+    margin-top: 700px;
+    background-color: blue;
+    position: relative;
+    text-align: center;
+    font-family:'Roboto Condensed', sans-serif;
+    font-size: 50px;
+    color:red
+}
+
+main{
+    margin:60px;
+    font-family:'Playfair Display', serif;;
+    font-size: 35px;
+}
+
+.video{
+    position:relative;
+    text-align: center;
+}
