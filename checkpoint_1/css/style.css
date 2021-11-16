@@ -6,7 +6,7 @@
 /*família de fontes: 'Playfair Display', serif;
 família de fontes: 'Roboto Condensed', sans-serif;*/
 body{
-    background-image: url( ../img/Franco\ da\ Rocha.jpg);
+    background-image: url(../img/Franco\ da\ Rocha.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;   
@@ -40,7 +40,7 @@ p{
     margin:60px;
     font-family:'Playfair Display', serif;;
     font-size: 35px;
-    color: rgb(240, 242, 239)
+    color: rgb(240, 242, 239);
 }
 main{
     text-align: center;
@@ -50,14 +50,14 @@ h2{
     text-align: center;
     font-family:'Roboto Condensed', sans-serif;
     font-size: 50px;
-    color: rgb(240, 242, 239)
+    color: rgb(240, 242, 239);
 }
 ul{
     margin:20px 0px;
     font-family:'Playfair Display', serif;;
     font-size: 35px;
     text-align: center;
-    color: rgb(240, 242, 239)
+    color: rgb(240, 242, 239);
 } 
 .icones {
     margin: 20px;
