@@ -25,3 +25,5 @@ Este é um projeto de um formulário de cadastro da cidade desenvolvido utilizan
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+2. Clone o repositório para a sua máquina local:
