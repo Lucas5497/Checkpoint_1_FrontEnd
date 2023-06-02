@@ -29,5 +29,8 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 2. Clone o repositório para a sua máquina local:
 ```bash
-cd 
+cd Checkpoint_1_FrontEnd
 ```
+3. Abra o arquivo index.html em um navegador da web.
+
+4. Agora você pode preencher o formulário com suas informações e enviar o cadastro.
